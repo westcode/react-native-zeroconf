@@ -1,6 +1,7 @@
 # react-native-zeroconf [![Week Stars](http://starveller.sigsev.io/api/repos/Apercu/react-native-zeroconf/badge)](http://starveller.sigsev.io/Apercu/react-native-zeroconf)
 
 > Basic Zeroconf implementation for React-native
+> This is a fork from https://github.com/balthazar/react-native-zeroconf which removes TXT support to allow pre API 21 (Android 5.0) usage of the package.
 
 Get running services advertizing themselves using Zeroconf implementations like Avahi, Bonjour or NSD.
 
